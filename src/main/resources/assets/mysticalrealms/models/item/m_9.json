@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "mysticalrealms:items/pnghut_minecraft-pixel-art-vector-graphics-bead-gun-mod"
+  }
+}
